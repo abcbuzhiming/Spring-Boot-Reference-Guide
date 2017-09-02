@@ -1,3 +1,10 @@
-# My Awesome API
+# Spring-Boot-Reference-Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
+
+本文档翻译的版本：[1.5.6.RELEASE](https://docs.spring.io/spring-boot/docs/1.5.6.RELEASE/reference/htmlsingle/ "1.5.6.RELEASE")
+
+Github：[https://github.com/abcbuzhiming/Spring-Boot-Reference-Guide](https://github.com/abcbuzhiming/Spring-Boot-Reference-Guide)
+
+GitBook :[https://www.gitbook.com/book/abcbuzhiming/spring-boot-reference-guide-zh](https://www.gitbook.com/book/abcbuzhiming/spring-boot-reference-guide-zh "Spring Boot参考指南")
+
